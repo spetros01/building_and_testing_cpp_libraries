@@ -1,0 +1,4 @@
+See file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/linkGreeterTestGoogleTestExe/output.txt for all output for linkGreeterTestGoogleTestExe.
+linking greeterTest successful.
+
+Finished linkGreeterTestGoogleTestExe, see full log file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/linkGreeterTestGoogleTestExe/output.txt.

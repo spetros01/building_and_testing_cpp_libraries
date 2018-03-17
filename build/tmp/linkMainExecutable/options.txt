@@ -1,0 +1,5 @@
+-o
+/home/steve/Repos/building_and_testing_cpp_libraries/build/exe/main/main
+/home/steve/Repos/building_and_testing_cpp_libraries/build/objs/main/mainCpp/215evwxmc1abvzs87qksef358/greetin.o
+/home/steve/Repos/building_and_testing_cpp_libraries/build/libs/greeter/shared/libgreeter.so
+-m64

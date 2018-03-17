@@ -1,0 +1,6 @@
+-shared
+-Wl,-soname,libgreeter.so
+-o
+/home/steve/Repos/building_and_testing_cpp_libraries/build/libs/greeter/shared/libgreeter.so
+/home/steve/Repos/building_and_testing_cpp_libraries/build/objs/greeter/shared/greeterCpp/f00ppatpvgjqecm25tl0l3tgi/greeter.o
+-m64

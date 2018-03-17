@@ -1,0 +1,4 @@
+See file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileMainTestGoogleTestExeMainCpp/output.txt for all output for compileMainTestGoogleTestExeMainCpp.
+compiling greetin.cpp successful.
+
+Finished compileMainTestGoogleTestExeMainCpp, see full log file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileMainTestGoogleTestExeMainCpp/output.txt.

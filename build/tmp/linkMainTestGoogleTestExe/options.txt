@@ -1,0 +1,7 @@
+-o
+/home/steve/Repos/building_and_testing_cpp_libraries/build/exe/mainTest/mainTest
+/home/steve/Repos/building_and_testing_cpp_libraries/build/objs/mainTest/mainCpp/215evwxmc1abvzs87qksef358/greetin.o
+/usr/lib/libgtest.a
+/home/steve/Repos/building_and_testing_cpp_libraries/build/libs/greeter/shared/libgreeter.so
+-pthread
+-m64

@@ -1,0 +1,4 @@
+See file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileGreeterTestGoogleTestExeGreeterTestCpp/output.txt for all output for compileGreeterTestGoogleTestExeGreeterTestCpp.
+compiling greetertest.cpp successful.
+
+Finished compileGreeterTestGoogleTestExeGreeterTestCpp, see full log file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileGreeterTestGoogleTestExeGreeterTestCpp/output.txt.

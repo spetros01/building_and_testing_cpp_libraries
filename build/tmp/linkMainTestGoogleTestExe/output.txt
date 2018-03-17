@@ -1,0 +1,4 @@
+See file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/linkMainTestGoogleTestExe/output.txt for all output for linkMainTestGoogleTestExe.
+linking mainTest successful.
+
+Finished linkMainTestGoogleTestExe, see full log file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/linkMainTestGoogleTestExe/output.txt.

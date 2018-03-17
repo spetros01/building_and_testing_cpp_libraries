@@ -1,0 +1,4 @@
+See file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileMainExecutableMainCpp/output.txt for all output for compileMainExecutableMainCpp.
+compiling greetin.cpp successful.
+
+Finished compileMainExecutableMainCpp, see full log file:///home/steve/Repos/building_and_testing_cpp_libraries/build/tmp/compileMainExecutableMainCpp/output.txt.
